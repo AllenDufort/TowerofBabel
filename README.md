@@ -1,5 +1,5 @@
 # TowerofBabel
-Devpost link for updates: https://devpost.com/software/tower-of-babel#updates
+Devpost link for updates: https://devpost.com/software/tower-of-babel
 
 Basic Summary
     We wanted to be able to take long text posts and sort them into categories. 
@@ -47,7 +47,7 @@ Results
     0	Logistic Regression	                97.09%	        0.97	    0.97	0.97
     1	Random Forest	                    97.99%	        0.98	    0.98	0.98
     2	Multinomial Naive Bayes	            97.09%	        0.97	    0.97	0.97
-    3	Support Vector Classifer            96.64%	        0.97	    0.97	0.97
+    3	Support Vector Classifier            96.64%	        0.97	    0.97	0.97
     4	Decision Tree Classifier            82.10%	        0.82	    0.82	0.82
     5	Gaussian Naive Bayes	            76.06%	        0.76	    0.76	0.76
     6	K Nearest Neighbor	                73.60%	        0.74	    0.74	0.74
