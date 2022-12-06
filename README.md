@@ -32,10 +32,10 @@ The Jupyter Notebook: text_class.ipynb
     Next we shuffle the data and made 30% of the dataset the test set.
     
     Afterwords, we begin to run the model in a function called run_model().
-    The function compares 8 different classifiers for natural language processing models:
+    The function compares 9 different classifiers for natural language processing models:
     Logistic Regression, Random Forest, Multinomial Naive Bayes, 
-    Support Vector Classifer, Decision Tree Classifier, 
-    K Nearest Neighbor, Gaussian Naive Bayes, and Multilayered Perceptron CLassifier.
+    Support Vector Classifer, Decision Tree Classifier, Gaussian Naive Bayes,
+    2 K Nearest Neighbor classifiers, and Multilayered Perceptron CLassifier.
 
 Results
 
@@ -47,11 +47,12 @@ Results
     0	Logistic Regression	                97.09%	        0.97	    0.97	0.97
     1	Random Forest	                    97.99%	        0.98	    0.98	0.98
     2	Multinomial Naive Bayes	            97.09%	        0.97	    0.97	0.97
-    3	Support Vector Classifier            96.64%	        0.97	    0.97	0.97
+    3	Support Vector Classifier           96.64%	        0.97	    0.97	0.97
     4	Decision Tree Classifier            82.10%	        0.82	    0.82	0.82
     5	Gaussian Naive Bayes	            76.06%	        0.76	    0.76	0.76
-    6	K Nearest Neighbor	                73.60%	        0.74	    0.74	0.74
-    7   Multilayer Perceptron Classifier	97.76%	        0.98	    0.98	0.98
+    6	K Nearest Neighbor	k=10            73.60%	        0.74	    0.74	0.74
+    7   K Nearest Neighbor	k=7             77.06%	        0.77	    0.77	0.77
+    8   Multilayer Perceptron Classifier	97.76%	        0.98	    0.98	0.98
 
         TP = true positive, TN = true negative, FP = false positive, TN = false negative
 
