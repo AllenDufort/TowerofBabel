@@ -19,7 +19,7 @@ The Jupyter Notebook: text_class.ipynb
     The preprocessing involves factorizing the dataset by the category,
     which associates the category names with a numerical index (a value 0 to 4), 
     and saves it in a new column called CategoryId.
-    Next in the preprocessing, we remove all the tags, special characters, and stop words 
+    Next in the preprocessing, we remove all special characters, and stop words 
     from the dataset, we convert all the words to lowercase, and then we lemmatize the words
         
         Lemmatization groups words with similar meanings to one word 
