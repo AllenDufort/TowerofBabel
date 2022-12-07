@@ -50,7 +50,7 @@ Results
     3	Support Vector Classifier           96.64%	        0.97	    0.97	0.97
     4	Decision Tree Classifier            82.10%	        0.82	    0.82	0.82
     5	Gaussian Naive Bayes	            76.06%	        0.76	    0.76	0.76
-    6	K Nearest Neighbor	k=10            73.60%	        0.74	    0.74	0.74
+    6	K Nearest Neighbor	k=3             79.64%	        0.80	    0.80	0.80
     7   K Nearest Neighbor	k=7             77.63%	        0.78	    0.78	0.78
     8   Multilayer Perceptron Classifier	97.76%	        0.98	    0.98	0.98
 
